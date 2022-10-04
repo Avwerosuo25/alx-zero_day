@@ -1,1 +1,1 @@
-my second commit
+ALX journey has been interesting so far
